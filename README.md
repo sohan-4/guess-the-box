@@ -1,4 +1,5 @@
 # 4X4-game
+READ ON SOURCE BLOB
 This is a minsweeper like game, there is a by 4 by 4 grid like this:
 A1 A2 A3 A4
 B1 B2 B3 B4
