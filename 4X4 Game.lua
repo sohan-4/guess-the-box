@@ -47,7 +47,7 @@ function checker() do
     print("Enter Letter: ")
     letter_input=io.read()
     letter_input=string.upper(letter_input)
-    print(letter_input)
+    --print(letter_input)
     letter_length=#letter_input
   end
   local num_type=""
